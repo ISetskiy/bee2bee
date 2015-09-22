@@ -2,7 +2,7 @@
 
 $loader = require __DIR__.'/autoload.php';
 
-$API_KEY = '128600740:AAHZzj8zRHIZx333bPuSMn_HmCQGcnghStU';
+$API_KEY = '128600740:AAHZzj8cnghStU';
 $BOT_NAME = 'Beeline_b2b_spb_bot';
 
 try {
